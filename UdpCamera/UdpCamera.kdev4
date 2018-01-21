@@ -1,0 +1,4 @@
+[Project]
+Name=UdpCamera
+Manager=KDevCMakeManager
+VersionControl=kdevgit
